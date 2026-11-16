@@ -69,3 +69,31 @@ GitHub: https://github.com/basovn1380
 
 This project is available for educational and portfolio purposes.
 
+
+## Demo
+
+### Expense Summary
+
+The application calculates expenses by category and displays the total amount.
+
+![Expense Summary](expense-summary.jpg)
+
+### Expense History
+
+The application stores and displays recorded transactions with dates and descriptions.
+
+![Expense History](expense-history.jpg)
+
+## Example Results
+
+| Category | Amount |
+|---|---:|
+| Food | RM25.00 |
+| Transport | RM10.00 |
+| **Total** | **RM35.00** |
+
+## Author
+
+Nikita Basov  
+GitHub: https://github.com/basovn1380
+
